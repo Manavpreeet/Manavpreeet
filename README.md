@@ -1,8 +1,8 @@
 ###
 ## Hello 👋, I am Manavpreet Singh
 
-### ![Twitter Follow](https://img.shields.io/twitter/follow/Manavpreeet?label=Follow%20me%20here%21&style=social)  ![GitHub followers](https://img.shields.io/github/followers/Manavpreeet?label=Follow%20me&style=social)
-###
+### [![Twitter Follow](https://img.shields.io/twitter/follow/Manavpreeet?label=Follow%20me%20here%21&style=social)](https://twitter.com/Manavpreeet)  
+[![GitHub followers](https://img.shields.io/github/followers/Manavpreeet?label=Follow%20me&style=social)](https://github.com/Manavpreeet)
 
 A webapp developer, using various tools like NodeJs, ReactJS, TailWindCss. In the mission to have fun and make websites lighter and minimal. Also with full responsiveness so that user can use it in any device.
 
