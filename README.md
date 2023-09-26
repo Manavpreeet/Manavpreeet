@@ -1,34 +1,41 @@
-###
-## Hello 👋, I am Manavpreet Singh
+# Manavpreet Singh
 
-### [![Twitter Follow](https://img.shields.io/twitter/follow/Manavpreeet?label=Follow%20me%20here%21&style=social)](https://twitter.com/Manavpreeet)  
-[![GitHub followers](https://img.shields.io/github/followers/Manavpreeet?label=Follow%20me&style=social)](https://github.com/Manavpreeet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manavpreet-singh)
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://www.yourresume.com)
 
-A webapp developer, using various tools like NodeJs, ReactJS, TailWindCss. In the mission to have fun and make websites lighter and minimal. Also with full responsiveness so that user can use it in any device.
+Hi there! 👋 I'm Manavpreet Singh, a Full Stack Engineer passionate about crafting robust and scalable web and mobile applications. I love working with cutting-edge technologies and building solutions that make a difference.
 
-A mobile-app developer, both native android and flutter. Making apps to help out people from day to day challenges and also to provide educational games for kids.
+![Coding](https://github.com/yourusername/yourusername/raw/main/assets/coding.gif)
 
-Also learning algorithms to make life easier and hope to get into AI soon.
+## 🔧 Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, Python, Go, Rust
+- **Frontend**: React, Next.js
+- **Backend**: Node.js, Express, Flask, Django, Nest.js
+- **Databases**: PostgreSQL, MongoDB, DynamoDB
+- **Cloud**: AWS (EC2, S3, Lambda, Amplify, etc.)
+- **Methodologies**: REST APIs, MVC, OOP, Agile/Scrum, Monorepo
+
+## 🌟 Highlights
+
+- 🚀 Developed real-time web and mobile apps used by thousands of users.
+- 📈 Achieved a 20% increase in user engagement by implementing new platform capabilities.
+- 💡 Contributed to open-source projects, including [IllustrationKit](https://sketcha.io).
+- 💨 Optimized database performance for enhanced user experiences.
+
+## 📂 Projects
+
+-  Salah App: A real-time prayer notification app with 5,000+ downloads.
+-  [E-commerce Website](https://github.com/Manavpreeet/Make-it-deal): Developed a high-performance e-commerce site using React and Node.js.
+-  [Chatbot Platform](https://web.peakmind.in/home): Created a chatbot system handling high traffic loads on AWS.
 
 
-### 🧰 Tools
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="MongoDB Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" alt="Illustrator Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML Logo"  width="50" height="50"/>   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="BootStrap Logo"  width="50" height="50"/>
+## 📫 Contact Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manavpreet-singh). You can also download my [resume](https://www.yourresume.com) to learn more about my professional background.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manavpreeet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manavpreeet&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-# Follow to stay tuned with me 
-#### let's meet for lunch and discuss about what to make next!
-<!--
-**Manavpreeet/Manavpreeet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manavpreeet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manavpreeet&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Let's collaborate and build amazing things together! 🚀
