@@ -1,41 +1,23 @@
-# Manavpreet Singh
+<h1 align="center">Hi 👋, I'm Manavpreet Singh</h1>
+<h3 align="center">Innovative Full Stack Developer - Transforming Ideas into Impactful Solutions</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manavpreet-singh)
-[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://www.yourresume.com)
+- 🔭 I’m currently working at [Peakmind](https://www.peakmind.in/) as Full Stack Developer
 
-Hi there! 👋 I'm Manavpreet Singh, a Full Stack Engineer passionate about crafting robust and scalable web and mobile applications. I love working with cutting-edge technologies and building solutions that make a difference.
+- 🙇‍♂️ I’m currently learning **Rust, DevOps and AI**
 
-![Coding](https://github.com/yourusername/yourusername/raw/main/assets/coding.gif)
+- 👯 I’m looking for new opportunities as **Full Stack Developer**
 
-## 🔧 Technologies & Tools
+- 💬 Ask me about **React, NodeJS, NextJS and Serverless**
 
-- **Languages**: JavaScript, TypeScript, Python, Go, Rust
-- **Frontend**: React, Next.js
-- **Backend**: Node.js, Express, Flask, Django, Nest.js
-- **Databases**: PostgreSQL, MongoDB, DynamoDB
-- **Cloud**: AWS (EC2, S3, Lambda, Amplify, etc.)
-- **Methodologies**: REST APIs, MVC, OOP, Agile/Scrum, Monorepo
+- 📫 How to reach me **manavpreeetsingh@gmail.com**
 
-## 🌟 Highlights
+- 💡 Know about my experiences [Here!](https://docs.google.com/document/d/e/2PACX-1vQd8hY86ocZHjG18HZIiMtxiS2P93gRTXB387eyOh9h_L-HT8wMZz_kEkKJsBV7OIeG7cOi1TDIr4TI/pub)
+<hr>
+<h4  >From strumming in a band to debugging code - the musical coder who tries to hit all the right notes in programming!</h4>
+<img src="https://media.giphy.com/media/YgsGYbakNrZg3sVmop/giphy.gif"/>
 
-- 🚀 Developed real-time web and mobile apps used by thousands of users.
-- 📈 Achieved a 20% increase in user engagement by implementing new platform capabilities.
-- 💡 Contributed to open-source projects, including [IllustrationKit](https://sketcha.io).
-- 💨 Optimized database performance for enhanced user experiences.
-
-## 📂 Projects
-
--  Salah App: A real-time prayer notification app with 5,000+ downloads.
--  [E-commerce Website](https://github.com/Manavpreeet/Make-it-deal): Developed a high-performance e-commerce site using React and Node.js.
--  [Chatbot Platform](https://web.peakmind.in/home): Created a chatbot system handling high traffic loads on AWS.
+<hr>
 
 
-## 📫 Contact Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manavpreet-singh). You can also download my [resume](https://www.yourresume.com) to learn more about my professional background.
-
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manavpreeet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)     [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manavpreeet&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-Let's collaborate and build amazing things together! 🚀
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manavpreeet&show_icons=true&locale=en&layout=compact" alt="manavpreeet" /><h1>   </h1><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manavpreeet&" alt="manavpreeet" />
