@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **manavpreeetsingh@gmail.com**
 
-- 💡 Know about my experiences [Here!](https://docs.google.com/document/d/e/2PACX-1vQd8hY86ocZHjG18HZIiMtxiS2P93gRTXB387eyOh9h_L-HT8wMZz_kEkKJsBV7OIeG7cOi1TDIr4TI/pub)
 <hr>
 <h4  >From strumming in a band to debugging code - the musical coder who tries to hit all the right notes in programming!</h4>
 <img src="https://media.giphy.com/media/YgsGYbakNrZg3sVmop/giphy.gif"/>
