@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manavpreet Singh</h1>
 <h3 align="center">Innovative Full Stack Developer - Transforming Ideas into Impactful Solutions</h3>
 
-- 🔭 I’m currently working at [Peakmind](https://www.peakmind.in/) as Full Stack Developer
+- 🔭 I’m currently working at [Thena](https://www.thena.ai/) as Full Stack Developer
 
 - 🙇‍♂️ I’m currently learning **Rust, DevOps and AI**
 
